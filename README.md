@@ -7,7 +7,7 @@ that are required before installing the program.
 - Python 3.x
 - Additional libraries as per `requirements.txt`
 
-### Steps to run f*cking project
+### Steps to run f*cking app
 
 ```bash
 # 1. Create a Virtual Environment
