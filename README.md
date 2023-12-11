@@ -1,12 +1,13 @@
-# Simple Fuzzy string matcher
+# Simple fuzzy string matcher
 
 ### Dependencies
 
-List any prerequisites, libraries, OS version, etc., that are required before installing the program.
+List any prerequisites, libraries, OS version, etc.,
+that are required before installing the program.
 - Python 3.x
 - Additional libraries as per `requirements.txt`
 
-### steps to run f*cking project
+### Steps to run f*cking project
 
 ```bash
 # 1. Create a Virtual Environment
